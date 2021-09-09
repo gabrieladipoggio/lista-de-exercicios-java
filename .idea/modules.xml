@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_intro_poo/ex01_cliente/ex01_cliente.iml" filepath="$PROJECT_DIR$/01_intro_poo/ex01_cliente/ex01_cliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_java_poo/ex01_cliente/ex01_cliente1.iml" filepath="$PROJECT_DIR$/02_java_poo/ex01_cliente/ex01_cliente1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_intro_poo/ex02_funcionario/ex02_funcionario.iml" filepath="$PROJECT_DIR$/01_intro_poo/ex02_funcionario/ex02_funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_java_poo/ex02_jogadores/ex02_jogadores.iml" filepath="$PROJECT_DIR$/02_java_poo/ex02_jogadores/ex02_jogadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_java_poo/ex03_atletas/ex03_atletas.iml" filepath="$PROJECT_DIR$/02_java_poo/ex03_atletas/ex03_atletas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_intro_poo/ex03_hamburgueria/ex03_hamburgueria.iml" filepath="$PROJECT_DIR$/01_intro_poo/ex03_hamburgueria/ex03_hamburgueria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/listas_playground.iml" filepath="$PROJECT_DIR$/.idea/listas_playground.iml" />
+    </modules>
+  </component>
+</project>
